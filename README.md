@@ -1,6 +1,6 @@
 # notebook-h5
 
-A simple notebook h5 application
+A simple notebook h5 application | [Online demo](https://mzi.red/notebook-h5/)
 
 ## Project setup
 ```
