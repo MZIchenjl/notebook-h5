@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c63b9f110ea9d427c08e6e7e1aad0e49.js"
+  "/notebook-h5/precache-manifest.f4441e5f59cc8dbfa7f841acc25ca77f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "notebook-h5"});
