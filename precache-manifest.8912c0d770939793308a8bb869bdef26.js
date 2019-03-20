@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/notebook-h5/js/note.c27015c3.js"
   },
   {
-    "revision": "35635ac9d417af0cbbb7056ee9ff857a",
+    "revision": "a0d7a1aebd9a7aaf880194aa30e90c06",
     "url": "/notebook-h5/index.html"
   },
   {
